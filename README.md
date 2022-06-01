@@ -113,7 +113,7 @@ namespace CLovenseToy
 ```
 
 - To view the log output, use the editbin command.
-https://developer.lovense.com/assets/img/windows-sdk-view-log.e4eaeacb.png
+![Alt text](https://github.com/lovense/Lovense-Windows-SDK/blob/main/editbin.png "Editbin")
 
 
 SETUP 
