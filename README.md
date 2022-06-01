@@ -26,9 +26,10 @@ INSTALLATION
 
 - Configure the SDK in your application. Visual Studio 2019 example:
 1. Set the path of the SDK header file
-https://developer.lovense.com/assets/img/windows-sdk-configure-head.52e96ef6.png
+![Alt text](https://github.com/lovense/Lovense-Windows-SDK/blob/main/windows-sdk-configure-head.52e96ef6.png "SDK Header file")
 2. Set the path of SDK lib file
-https://developer.lovense.com/assets/img/windows-sdk-configure-lib.0d4eed86.
+![Alt text](https://github.com/lovense/Lovense-Windows-SDK/blob/main/windows-sdk-configure-lib.0d4eed86.png "SDK lib file")
+
 
 - Connect Lovense toys
 
