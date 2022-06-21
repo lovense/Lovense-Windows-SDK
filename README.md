@@ -1,4 +1,4 @@
-Lovense SDK for Android
+Lovense SDK for Windows
 ========================
 
 The Windows SDK is a library provided for Windows that allows you to directly access Lovense toys. You usually choose this option if you are making your own Windows application.
